@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victornjutha&label=Profile%20views&color=0e75b6&style=flat" alt="victornjutha" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask** **Django** 
 
 - 📫 How to reach me **vnjutha@gmail.com**
 
